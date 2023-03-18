@@ -1,5 +1,6 @@
 # discord-themes
 use themes without nitro. created in javascript, someone can probably make a more efficient script
+if someone made it into a chrome extension that would be great
 
 ![image](https://user-images.githubusercontent.com/72956230/226078311-a899089c-771b-4005-9de5-4c2c2d7418a1.png)
 
@@ -29,7 +30,7 @@ you can also just use tampermonkey i think
 
 all the scripts are minified, feel free to unminify them
 
-# Custom backgrouns
+# Custom backgrounds
 if you know any java script you can make custom background like I did with OMOLED.js
 
 
