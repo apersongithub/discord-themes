@@ -16,3 +16,5 @@ you do need to execute the code in console each time but you can make a bookmark
 when i update the code I may make it so you dont have to do this
 
 you can also just use tampermonkey i think
+
+all the scripts are minified, feel free to unminify them
