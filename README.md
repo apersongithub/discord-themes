@@ -4,6 +4,9 @@ use themes without nitro. created in javascript, someone can probably make a mor
 # other stuff
 feel free to change the code or whatever this basically just shows you the code for using themes just give me credit for giving u the code thats all
 
+# INFO.js
+if you unminify the code info.js will give you step by step on how the code works
+
 # IMPORTANT
 REMEMBER TO RELOAD TO USE A NEW THEME
 
