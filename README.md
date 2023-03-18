@@ -1,6 +1,8 @@
 # discord-themes
 use themes without nitro. created in javascript, someone can probably make a more efficient script
 
+![image](https://user-images.githubusercontent.com/72956230/226078311-a899089c-771b-4005-9de5-4c2c2d7418a1.png)
+
 # how to use
 just copy the code from any of the files and execute it in console. Thats it!
 
@@ -30,4 +32,4 @@ all the scripts are minified, feel free to unminify them
 # Custom backgrouns
 if you know any java script you can make custom background like I did with OMOLED.js
 
-![image](https://user-images.githubusercontent.com/72956230/226078311-a899089c-771b-4005-9de5-4c2c2d7418a1.png)
+
