@@ -23,3 +23,6 @@ when i update the code I may make it so you dont have to do this
 you can also just use tampermonkey i think
 
 all the scripts are minified, feel free to unminify them
+
+# Custom backgrouns
+if you know any java script you can make custom background like I did with OMOLED.js
