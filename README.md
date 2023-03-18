@@ -10,3 +10,9 @@ the themes start to flicker if you click off the tab so yeah
 this was created in like 3 minutes during study hall so dont give me any hate
 
 maybe ill update in the future but someone will probally copy and make it better so yeah
+
+you do need to execute the code in console each time but you can make a bookmarklet so you dont have to
+
+when i update the code I may make it so you dont have to do this
+
+you can also just use tampermonkey i think
