@@ -1,3 +1,5 @@
+# USE THIS INSTEAD https://gist.github.com/User9684/a0c9026f5009d150d2cd0e526caecfd8
+
 # discord-themes
 use themes without nitro. created in javascript, someone can probably make a more efficient script
 if someone made it into a chrome extension that would be great
